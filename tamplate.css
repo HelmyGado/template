@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+}
+span {
+  text-align: left;
+}
+li {
+  display: inline-block;
+  float: right;
+  padding: 1%;
